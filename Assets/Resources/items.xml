@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WalkingScript>
+	<Items>
+	  <Item>
+	    <test>50</test>
+      <rotSpeed>90</rotSpeed>
+    <flashlightTimer>1000</flashlightTimer>
+    <flashlightPowerReduction>5</flashlightPowerReduction>
+	  </Item>
+	</Items>
+</WalkingScript>

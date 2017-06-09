@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 159a75dc68ba0cb46b8b8bd0d0d47478
+timeCreated: 1462408685
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ammunition_room_ammunition_room_ceiling
+    100002: ammunition_room_ammunition_room_walls1
+    100004: ammunition_room_ammunition_room_walls2
+    100006: ammunition_room_ammunition_room_walls3
+    100008: ammunition_room_ammunition_room_walls4
+    100010: ammunition_room_ammunition_room_walls5
+    100012: ammunition_room_floor_ammunition_room
+    100014: //RootNode
+    400000: ammunition_room_ammunition_room_ceiling
+    400002: ammunition_room_ammunition_room_walls1
+    400004: ammunition_room_ammunition_room_walls2
+    400006: ammunition_room_ammunition_room_walls3
+    400008: ammunition_room_ammunition_room_walls4
+    400010: ammunition_room_ammunition_room_walls5
+    400012: ammunition_room_floor_ammunition_room
+    400014: //RootNode
+    2300000: ammunition_room_ammunition_room_ceiling
+    2300002: ammunition_room_ammunition_room_walls1
+    2300004: ammunition_room_ammunition_room_walls2
+    2300006: ammunition_room_ammunition_room_walls3
+    2300008: ammunition_room_ammunition_room_walls4
+    2300010: ammunition_room_ammunition_room_walls5
+    2300012: ammunition_room_floor_ammunition_room
+    3300000: ammunition_room_ammunition_room_ceiling
+    3300002: ammunition_room_ammunition_room_walls1
+    3300004: ammunition_room_ammunition_room_walls2
+    3300006: ammunition_room_ammunition_room_walls3
+    3300008: ammunition_room_ammunition_room_walls4
+    3300010: ammunition_room_ammunition_room_walls5
+    3300012: ammunition_room_floor_ammunition_room
+    4300000: ammunition_room_ammunition_room_ceiling
+    4300002: ammunition_room_ammunition_room_walls1
+    4300004: ammunition_room_ammunition_room_walls2
+    4300006: ammunition_room_ammunition_room_walls3
+    4300008: ammunition_room_ammunition_room_walls4
+    4300010: ammunition_room_ammunition_room_walls5
+    4300012: ammunition_room_floor_ammunition_room
+    6400000: ammunition_room_ammunition_room_ceiling
+    6400002: ammunition_room_ammunition_room_walls1
+    6400004: ammunition_room_ammunition_room_walls2
+    6400006: ammunition_room_ammunition_room_walls3
+    6400008: ammunition_room_ammunition_room_walls4
+    6400010: ammunition_room_ammunition_room_walls5
+    6400012: ammunition_room_floor_ammunition_room
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

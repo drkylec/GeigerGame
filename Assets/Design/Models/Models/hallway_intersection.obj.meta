@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 33f2a2c7342b9e14694f8b4fa3b97fdf
+timeCreated: 1462307958
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hallway_intersection_hallway_intersection_holder1
+    100004: hallway_intersection_hallway_intersection_holder10
+    100006: hallway_intersection_hallway_intersection_holder11
+    100008: hallway_intersection_hallway_intersection_holder12
+    100010: hallway_intersection_hallway_intersection_holder13
+    100012: hallway_intersection_hallway_intersection_holder14
+    100014: hallway_intersection_hallway_intersection_holder15
+    100016: hallway_intersection_hallway_intersection_holder16
+    100018: hallway_intersection_hallway_intersection_holder2
+    100020: hallway_intersection_hallway_intersection_holder3
+    100022: hallway_intersection_hallway_intersection_holder4
+    100024: hallway_intersection_hallway_intersection_holder5
+    100026: hallway_intersection_hallway_intersection_holder6
+    100028: hallway_intersection_hallway_intersection_holder7
+    100030: hallway_intersection_hallway_intersection_holder8
+    100032: hallway_intersection_hallway_intersection_holder9
+    100034: hallway_intersection_hallway_intersection_pipe1
+    100036: hallway_intersection_hallway_intersection_pipe2
+    100038: hallway_intersection_hallway_intersection_pipe3
+    100040: hallway_intersection_hallway_intersection_pipe4
+    100042: hallway_intersection_walls_hallway_intersection
+    400000: //RootNode
+    400002: hallway_intersection_hallway_intersection_holder1
+    400004: hallway_intersection_hallway_intersection_holder10
+    400006: hallway_intersection_hallway_intersection_holder11
+    400008: hallway_intersection_hallway_intersection_holder12
+    400010: hallway_intersection_hallway_intersection_holder13
+    400012: hallway_intersection_hallway_intersection_holder14
+    400014: hallway_intersection_hallway_intersection_holder15
+    400016: hallway_intersection_hallway_intersection_holder16
+    400018: hallway_intersection_hallway_intersection_holder2
+    400020: hallway_intersection_hallway_intersection_holder3
+    400022: hallway_intersection_hallway_intersection_holder4
+    400024: hallway_intersection_hallway_intersection_holder5
+    400026: hallway_intersection_hallway_intersection_holder6
+    400028: hallway_intersection_hallway_intersection_holder7
+    400030: hallway_intersection_hallway_intersection_holder8
+    400032: hallway_intersection_hallway_intersection_holder9
+    400034: hallway_intersection_hallway_intersection_pipe1
+    400036: hallway_intersection_hallway_intersection_pipe2
+    400038: hallway_intersection_hallway_intersection_pipe3
+    400040: hallway_intersection_hallway_intersection_pipe4
+    400042: hallway_intersection_walls_hallway_intersection
+    2300000: hallway_intersection_hallway_intersection_holder1
+    2300002: hallway_intersection_hallway_intersection_holder10
+    2300004: hallway_intersection_hallway_intersection_holder11
+    2300006: hallway_intersection_hallway_intersection_holder12
+    2300008: hallway_intersection_hallway_intersection_holder13
+    2300010: hallway_intersection_hallway_intersection_holder14
+    2300012: hallway_intersection_hallway_intersection_holder15
+    2300014: hallway_intersection_hallway_intersection_holder16
+    2300016: hallway_intersection_hallway_intersection_holder2
+    2300018: hallway_intersection_hallway_intersection_holder3
+    2300020: hallway_intersection_hallway_intersection_holder4
+    2300022: hallway_intersection_hallway_intersection_holder5
+    2300024: hallway_intersection_hallway_intersection_holder6
+    2300026: hallway_intersection_hallway_intersection_holder7
+    2300028: hallway_intersection_hallway_intersection_holder8
+    2300030: hallway_intersection_hallway_intersection_holder9
+    2300032: hallway_intersection_hallway_intersection_pipe1
+    2300034: hallway_intersection_hallway_intersection_pipe2
+    2300036: hallway_intersection_hallway_intersection_pipe3
+    2300038: hallway_intersection_hallway_intersection_pipe4
+    2300040: hallway_intersection_walls_hallway_intersection
+    3300000: hallway_intersection_hallway_intersection_holder1
+    3300002: hallway_intersection_hallway_intersection_holder10
+    3300004: hallway_intersection_hallway_intersection_holder11
+    3300006: hallway_intersection_hallway_intersection_holder12
+    3300008: hallway_intersection_hallway_intersection_holder13
+    3300010: hallway_intersection_hallway_intersection_holder14
+    3300012: hallway_intersection_hallway_intersection_holder15
+    3300014: hallway_intersection_hallway_intersection_holder16
+    3300016: hallway_intersection_hallway_intersection_holder2
+    3300018: hallway_intersection_hallway_intersection_holder3
+    3300020: hallway_intersection_hallway_intersection_holder4
+    3300022: hallway_intersection_hallway_intersection_holder5
+    3300024: hallway_intersection_hallway_intersection_holder6
+    3300026: hallway_intersection_hallway_intersection_holder7
+    3300028: hallway_intersection_hallway_intersection_holder8
+    3300030: hallway_intersection_hallway_intersection_holder9
+    3300032: hallway_intersection_hallway_intersection_pipe1
+    3300034: hallway_intersection_hallway_intersection_pipe2
+    3300036: hallway_intersection_hallway_intersection_pipe3
+    3300038: hallway_intersection_hallway_intersection_pipe4
+    3300040: hallway_intersection_walls_hallway_intersection
+    4300000: hallway_intersection_hallway_intersection_holder1
+    4300002: hallway_intersection_hallway_intersection_holder10
+    4300004: hallway_intersection_hallway_intersection_holder11
+    4300006: hallway_intersection_hallway_intersection_holder12
+    4300008: hallway_intersection_hallway_intersection_holder13
+    4300010: hallway_intersection_hallway_intersection_holder14
+    4300012: hallway_intersection_hallway_intersection_holder15
+    4300014: hallway_intersection_hallway_intersection_holder16
+    4300016: hallway_intersection_hallway_intersection_holder2
+    4300018: hallway_intersection_hallway_intersection_holder3
+    4300020: hallway_intersection_hallway_intersection_holder4
+    4300022: hallway_intersection_hallway_intersection_holder5
+    4300024: hallway_intersection_hallway_intersection_holder6
+    4300026: hallway_intersection_hallway_intersection_holder7
+    4300028: hallway_intersection_hallway_intersection_holder8
+    4300030: hallway_intersection_hallway_intersection_holder9
+    4300032: hallway_intersection_hallway_intersection_pipe1
+    4300034: hallway_intersection_hallway_intersection_pipe2
+    4300036: hallway_intersection_hallway_intersection_pipe3
+    4300038: hallway_intersection_hallway_intersection_pipe4
+    4300040: hallway_intersection_walls_hallway_intersection
+    6400000: hallway_intersection_hallway_intersection_holder1
+    6400002: hallway_intersection_hallway_intersection_holder10
+    6400004: hallway_intersection_hallway_intersection_holder11
+    6400006: hallway_intersection_hallway_intersection_holder12
+    6400008: hallway_intersection_hallway_intersection_holder13
+    6400010: hallway_intersection_hallway_intersection_holder14
+    6400012: hallway_intersection_hallway_intersection_holder15
+    6400014: hallway_intersection_hallway_intersection_holder16
+    6400016: hallway_intersection_hallway_intersection_holder2
+    6400018: hallway_intersection_hallway_intersection_holder3
+    6400020: hallway_intersection_hallway_intersection_holder4
+    6400022: hallway_intersection_hallway_intersection_holder5
+    6400024: hallway_intersection_hallway_intersection_holder6
+    6400026: hallway_intersection_hallway_intersection_holder7
+    6400028: hallway_intersection_hallway_intersection_holder8
+    6400030: hallway_intersection_hallway_intersection_holder9
+    6400032: hallway_intersection_hallway_intersection_pipe1
+    6400034: hallway_intersection_hallway_intersection_pipe2
+    6400036: hallway_intersection_hallway_intersection_pipe3
+    6400038: hallway_intersection_hallway_intersection_pipe4
+    6400040: hallway_intersection_walls_hallway_intersection
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

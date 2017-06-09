@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 77a07bd48e3ea3b4f859337fc6212852
+timeCreated: 1462408710
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bathrooms_bathrooms_ceiling
+    100004: bathrooms_bathrooms_walls1
+    100006: bathrooms_bathrooms_walls10
+    100008: bathrooms_bathrooms_walls11
+    100010: bathrooms_bathrooms_walls2
+    100012: bathrooms_bathrooms_walls3
+    100014: bathrooms_bathrooms_walls4
+    100016: bathrooms_bathrooms_walls5
+    100018: bathrooms_bathrooms_walls6
+    100020: bathrooms_bathrooms_walls7
+    100022: bathrooms_bathrooms_walls8
+    100024: bathrooms_bathrooms_walls9
+    100026: bathrooms_floor_bathrooms
+    400000: //RootNode
+    400002: bathrooms_bathrooms_ceiling
+    400004: bathrooms_bathrooms_walls1
+    400006: bathrooms_bathrooms_walls10
+    400008: bathrooms_bathrooms_walls11
+    400010: bathrooms_bathrooms_walls2
+    400012: bathrooms_bathrooms_walls3
+    400014: bathrooms_bathrooms_walls4
+    400016: bathrooms_bathrooms_walls5
+    400018: bathrooms_bathrooms_walls6
+    400020: bathrooms_bathrooms_walls7
+    400022: bathrooms_bathrooms_walls8
+    400024: bathrooms_bathrooms_walls9
+    400026: bathrooms_floor_bathrooms
+    2300000: bathrooms_bathrooms_ceiling
+    2300002: bathrooms_bathrooms_walls1
+    2300004: bathrooms_bathrooms_walls10
+    2300006: bathrooms_bathrooms_walls11
+    2300008: bathrooms_bathrooms_walls2
+    2300010: bathrooms_bathrooms_walls3
+    2300012: bathrooms_bathrooms_walls4
+    2300014: bathrooms_bathrooms_walls5
+    2300016: bathrooms_bathrooms_walls6
+    2300018: bathrooms_bathrooms_walls7
+    2300020: bathrooms_bathrooms_walls8
+    2300022: bathrooms_bathrooms_walls9
+    2300024: bathrooms_floor_bathrooms
+    3300000: bathrooms_bathrooms_ceiling
+    3300002: bathrooms_bathrooms_walls1
+    3300004: bathrooms_bathrooms_walls10
+    3300006: bathrooms_bathrooms_walls11
+    3300008: bathrooms_bathrooms_walls2
+    3300010: bathrooms_bathrooms_walls3
+    3300012: bathrooms_bathrooms_walls4
+    3300014: bathrooms_bathrooms_walls5
+    3300016: bathrooms_bathrooms_walls6
+    3300018: bathrooms_bathrooms_walls7
+    3300020: bathrooms_bathrooms_walls8
+    3300022: bathrooms_bathrooms_walls9
+    3300024: bathrooms_floor_bathrooms
+    4300000: bathrooms_bathrooms_ceiling
+    4300002: bathrooms_bathrooms_walls1
+    4300004: bathrooms_bathrooms_walls10
+    4300006: bathrooms_bathrooms_walls11
+    4300008: bathrooms_bathrooms_walls2
+    4300010: bathrooms_bathrooms_walls3
+    4300012: bathrooms_bathrooms_walls4
+    4300014: bathrooms_bathrooms_walls5
+    4300016: bathrooms_bathrooms_walls6
+    4300018: bathrooms_bathrooms_walls7
+    4300020: bathrooms_bathrooms_walls8
+    4300022: bathrooms_bathrooms_walls9
+    4300024: bathrooms_floor_bathrooms
+    6400000: bathrooms_bathrooms_ceiling
+    6400002: bathrooms_bathrooms_walls1
+    6400004: bathrooms_bathrooms_walls10
+    6400006: bathrooms_bathrooms_walls11
+    6400008: bathrooms_bathrooms_walls2
+    6400010: bathrooms_bathrooms_walls3
+    6400012: bathrooms_bathrooms_walls4
+    6400014: bathrooms_bathrooms_walls5
+    6400016: bathrooms_bathrooms_walls6
+    6400018: bathrooms_bathrooms_walls7
+    6400020: bathrooms_bathrooms_walls8
+    6400022: bathrooms_bathrooms_walls9
+    6400024: bathrooms_floor_bathrooms
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

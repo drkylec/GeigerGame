@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayerScript>
+	<Players>
+	  <Player>
+      <rotSpeed>90.0</rotSpeed>
+      <rayLength>0.5</rayLength>
+      <collisionOffset>0.6</collisionOffset>
+      <flashlightTimer>30.0</flashlightTimer>
+      <flashlightPowerReduction>3.0</flashlightPowerReduction>
+      <flashlightMinPower>30</flashlightMinPower>
+      <flashlightMaxPower>60</flashlightMaxPower>
+      <gravity>20.0</gravity>
+      <speed>6.0</speed>
+      <flashlightMinFlicker>1.0</flashlightMinFlicker>
+      <flashlightMaxFlicker>10.0</flashlightMaxFlicker>
+      <lowGeigerA>0.0</lowGeigerA>
+      <lowGeigerB>2.0</lowGeigerB>
+      <medGeigerA>2.1</medGeigerA>
+      <medGeigerB>4.0</medGeigerB>
+      <highGeigerA>4.1</highGeigerA>
+      <highGeigerB>6.0</highGeigerB>
+      <offsetx>0.5507174</offsetx>
+      <offsety>1.25</offsety>
+      <offsetz>1.433601</offsetz>
+	  </Player>
+	</Players>
+</PlayerScript>

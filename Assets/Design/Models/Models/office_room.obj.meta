@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: a1b5a5e9dcae542418a42384d77eb3b0
+timeCreated: 1462408773
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: office_room_floor_office_room
+    100004: office_room_office_room_ceiling
+    100006: office_room_office_room_walls1
+    100008: office_room_office_room_walls10
+    100010: office_room_office_room_walls11
+    100012: office_room_office_room_walls12
+    100014: office_room_office_room_walls13
+    100016: office_room_office_room_walls14
+    100018: office_room_office_room_walls15
+    100020: office_room_office_room_walls2
+    100022: office_room_office_room_walls3
+    100024: office_room_office_room_walls4
+    100026: office_room_office_room_walls5
+    100028: office_room_office_room_walls6
+    100030: office_room_office_room_walls7
+    100032: office_room_office_room_walls8
+    100034: office_room_office_room_walls9
+    400000: //RootNode
+    400002: office_room_floor_office_room
+    400004: office_room_office_room_ceiling
+    400006: office_room_office_room_walls1
+    400008: office_room_office_room_walls10
+    400010: office_room_office_room_walls11
+    400012: office_room_office_room_walls12
+    400014: office_room_office_room_walls13
+    400016: office_room_office_room_walls14
+    400018: office_room_office_room_walls15
+    400020: office_room_office_room_walls2
+    400022: office_room_office_room_walls3
+    400024: office_room_office_room_walls4
+    400026: office_room_office_room_walls5
+    400028: office_room_office_room_walls6
+    400030: office_room_office_room_walls7
+    400032: office_room_office_room_walls8
+    400034: office_room_office_room_walls9
+    2300000: office_room_floor_office_room
+    2300002: office_room_office_room_ceiling
+    2300004: office_room_office_room_walls1
+    2300006: office_room_office_room_walls10
+    2300008: office_room_office_room_walls11
+    2300010: office_room_office_room_walls12
+    2300012: office_room_office_room_walls13
+    2300014: office_room_office_room_walls14
+    2300016: office_room_office_room_walls15
+    2300018: office_room_office_room_walls2
+    2300020: office_room_office_room_walls3
+    2300022: office_room_office_room_walls4
+    2300024: office_room_office_room_walls5
+    2300026: office_room_office_room_walls6
+    2300028: office_room_office_room_walls7
+    2300030: office_room_office_room_walls8
+    2300032: office_room_office_room_walls9
+    3300000: office_room_floor_office_room
+    3300002: office_room_office_room_ceiling
+    3300004: office_room_office_room_walls1
+    3300006: office_room_office_room_walls10
+    3300008: office_room_office_room_walls11
+    3300010: office_room_office_room_walls12
+    3300012: office_room_office_room_walls13
+    3300014: office_room_office_room_walls14
+    3300016: office_room_office_room_walls15
+    3300018: office_room_office_room_walls2
+    3300020: office_room_office_room_walls3
+    3300022: office_room_office_room_walls4
+    3300024: office_room_office_room_walls5
+    3300026: office_room_office_room_walls6
+    3300028: office_room_office_room_walls7
+    3300030: office_room_office_room_walls8
+    3300032: office_room_office_room_walls9
+    4300000: office_room_floor_office_room
+    4300002: office_room_office_room_ceiling
+    4300004: office_room_office_room_walls1
+    4300006: office_room_office_room_walls10
+    4300008: office_room_office_room_walls11
+    4300010: office_room_office_room_walls12
+    4300012: office_room_office_room_walls13
+    4300014: office_room_office_room_walls14
+    4300016: office_room_office_room_walls15
+    4300018: office_room_office_room_walls2
+    4300020: office_room_office_room_walls3
+    4300022: office_room_office_room_walls4
+    4300024: office_room_office_room_walls5
+    4300026: office_room_office_room_walls6
+    4300028: office_room_office_room_walls7
+    4300030: office_room_office_room_walls8
+    4300032: office_room_office_room_walls9
+    6400000: office_room_floor_office_room
+    6400002: office_room_office_room_ceiling
+    6400004: office_room_office_room_walls1
+    6400006: office_room_office_room_walls10
+    6400008: office_room_office_room_walls11
+    6400010: office_room_office_room_walls12
+    6400012: office_room_office_room_walls13
+    6400014: office_room_office_room_walls14
+    6400016: office_room_office_room_walls15
+    6400018: office_room_office_room_walls2
+    6400020: office_room_office_room_walls3
+    6400022: office_room_office_room_walls4
+    6400024: office_room_office_room_walls5
+    6400026: office_room_office_room_walls6
+    6400028: office_room_office_room_walls7
+    6400030: office_room_office_room_walls8
+    6400032: office_room_office_room_walls9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: d96e44e176c78c944ac58c29262837b0
+timeCreated: 1463089054
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: door_heavy_double1
+    100002: door_heavy_double2
+    100004: door_heavy_double_detail1
+    100006: door_heavy_double_detail2
+    100008: door_heavy_handle1
+    100010: door_heavy_handle2
+    100012: //RootNode
+    100014: heavy_metal_double_door1_door_heavy_pivot1
+    100016: heavy_metal_double_door1_door_heavy_pivot4
+    400000: door_heavy_double1
+    400002: door_heavy_double2
+    400004: door_heavy_double_detail1
+    400006: door_heavy_double_detail2
+    400008: door_heavy_handle1
+    400010: door_heavy_handle2
+    400012: //RootNode
+    400014: heavy_metal_double_door1_door_heavy_pivot1
+    400016: heavy_metal_double_door1_door_heavy_pivot4
+    2300000: door_heavy_double1
+    2300002: door_heavy_double2
+    2300004: door_heavy_double_detail1
+    2300006: door_heavy_double_detail2
+    2300008: door_heavy_handle1
+    2300010: door_heavy_handle2
+    2300012: heavy_metal_double_door1_door_heavy_pivot1
+    2300014: heavy_metal_double_door1_door_heavy_pivot4
+    3300000: door_heavy_double1
+    3300002: door_heavy_double2
+    3300004: door_heavy_double_detail1
+    3300006: door_heavy_double_detail2
+    3300008: door_heavy_handle1
+    3300010: door_heavy_handle2
+    3300012: heavy_metal_double_door1_door_heavy_pivot1
+    3300014: heavy_metal_double_door1_door_heavy_pivot4
+    4300000: door_heavy_double1
+    4300002: door_heavy_double2
+    4300004: door_heavy_handle2
+    4300006: door_heavy_handle1
+    4300008: door_heavy_double_detail1
+    4300010: door_heavy_double_detail2
+    4300012: heavy_metal_double_door1_door_heavy_pivot1
+    4300014: heavy_metal_double_door1_door_heavy_pivot4
+    6400000: door_heavy_double1
+    6400002: door_heavy_double2
+    6400004: door_heavy_double_detail1
+    6400006: door_heavy_double_detail2
+    6400008: door_heavy_handle1
+    6400010: door_heavy_handle2
+    6400012: heavy_metal_double_door1_door_heavy_pivot1
+    6400014: heavy_metal_double_door1_door_heavy_pivot4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

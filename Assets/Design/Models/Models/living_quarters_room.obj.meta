@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 7da4527964c4a204db8d7f7e2707e7a0
+timeCreated: 1462408734
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: living_quarters_room_living_quarters_room_ceiling
+    100004: living_quarters_room_living_quarters_room_floor
+    100006: living_quarters_room_living_quarters_room_walls2
+    100008: living_quarters_room_living_quarters_room_walls3
+    100010: living_quarters_room_living_quarters_room_walls4
+    100012: living_quarters_room_living_quarters_room_walls5
+    100014: living_quarters_room_living_quarters_room_walls6
+    100016: living_quarters_room_living_quarters_room_walls7
+    100018: living_quarters_room_living_quarters_room_walls8
+    100020: living_quarters_room_living_quarters_room_walls9
+    100022: living_quarters_room_walls1_living_quarters_room
+    400000: //RootNode
+    400002: living_quarters_room_living_quarters_room_ceiling
+    400004: living_quarters_room_living_quarters_room_floor
+    400006: living_quarters_room_living_quarters_room_walls2
+    400008: living_quarters_room_living_quarters_room_walls3
+    400010: living_quarters_room_living_quarters_room_walls4
+    400012: living_quarters_room_living_quarters_room_walls5
+    400014: living_quarters_room_living_quarters_room_walls6
+    400016: living_quarters_room_living_quarters_room_walls7
+    400018: living_quarters_room_living_quarters_room_walls8
+    400020: living_quarters_room_living_quarters_room_walls9
+    400022: living_quarters_room_walls1_living_quarters_room
+    2300000: living_quarters_room_living_quarters_room_ceiling
+    2300002: living_quarters_room_living_quarters_room_floor
+    2300004: living_quarters_room_living_quarters_room_walls2
+    2300006: living_quarters_room_living_quarters_room_walls3
+    2300008: living_quarters_room_living_quarters_room_walls4
+    2300010: living_quarters_room_living_quarters_room_walls5
+    2300012: living_quarters_room_living_quarters_room_walls6
+    2300014: living_quarters_room_living_quarters_room_walls7
+    2300016: living_quarters_room_living_quarters_room_walls8
+    2300018: living_quarters_room_living_quarters_room_walls9
+    2300020: living_quarters_room_walls1_living_quarters_room
+    3300000: living_quarters_room_living_quarters_room_ceiling
+    3300002: living_quarters_room_living_quarters_room_floor
+    3300004: living_quarters_room_living_quarters_room_walls2
+    3300006: living_quarters_room_living_quarters_room_walls3
+    3300008: living_quarters_room_living_quarters_room_walls4
+    3300010: living_quarters_room_living_quarters_room_walls5
+    3300012: living_quarters_room_living_quarters_room_walls6
+    3300014: living_quarters_room_living_quarters_room_walls7
+    3300016: living_quarters_room_living_quarters_room_walls8
+    3300018: living_quarters_room_living_quarters_room_walls9
+    3300020: living_quarters_room_walls1_living_quarters_room
+    4300000: living_quarters_room_living_quarters_room_ceiling
+    4300002: living_quarters_room_living_quarters_room_floor
+    4300004: living_quarters_room_living_quarters_room_walls2
+    4300006: living_quarters_room_living_quarters_room_walls3
+    4300008: living_quarters_room_living_quarters_room_walls4
+    4300010: living_quarters_room_living_quarters_room_walls5
+    4300012: living_quarters_room_living_quarters_room_walls6
+    4300014: living_quarters_room_living_quarters_room_walls7
+    4300016: living_quarters_room_living_quarters_room_walls8
+    4300018: living_quarters_room_living_quarters_room_walls9
+    4300020: living_quarters_room_walls1_living_quarters_room
+    6400000: living_quarters_room_living_quarters_room_ceiling
+    6400002: living_quarters_room_living_quarters_room_floor
+    6400004: living_quarters_room_living_quarters_room_walls2
+    6400006: living_quarters_room_living_quarters_room_walls3
+    6400008: living_quarters_room_living_quarters_room_walls4
+    6400010: living_quarters_room_living_quarters_room_walls5
+    6400012: living_quarters_room_living_quarters_room_walls6
+    6400014: living_quarters_room_living_quarters_room_walls7
+    6400016: living_quarters_room_living_quarters_room_walls8
+    6400018: living_quarters_room_living_quarters_room_walls9
+    6400020: living_quarters_room_walls1_living_quarters_room
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

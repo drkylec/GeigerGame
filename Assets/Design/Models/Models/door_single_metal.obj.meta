@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: b063a380770ddda46b4ae195ec6c8547
+timeCreated: 1462310957
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: heavy_door_lock1_heavy_metal_door
+    100004: heavy_metal_door_heavy_door_frame
+    100006: heavy_metal_door_heavy_door_lock2
+    100008: heavy_metal_door_heavy_door_locker1
+    100010: heavy_metal_door_heavy_door_locker2
+    400000: //RootNode
+    400002: heavy_door_lock1_heavy_metal_door
+    400004: heavy_metal_door_heavy_door_frame
+    400006: heavy_metal_door_heavy_door_lock2
+    400008: heavy_metal_door_heavy_door_locker1
+    400010: heavy_metal_door_heavy_door_locker2
+    2300000: heavy_door_lock1_heavy_metal_door
+    2300002: heavy_metal_door_heavy_door_frame
+    2300004: heavy_metal_door_heavy_door_lock2
+    2300006: heavy_metal_door_heavy_door_locker1
+    2300008: heavy_metal_door_heavy_door_locker2
+    3300000: heavy_door_lock1_heavy_metal_door
+    3300002: heavy_metal_door_heavy_door_frame
+    3300004: heavy_metal_door_heavy_door_lock2
+    3300006: heavy_metal_door_heavy_door_locker1
+    3300008: heavy_metal_door_heavy_door_locker2
+    4300000: heavy_door_lock1_heavy_metal_door
+    4300002: heavy_metal_door_heavy_door_frame
+    4300004: heavy_metal_door_heavy_door_lock2
+    4300006: heavy_metal_door_heavy_door_locker1
+    4300008: heavy_metal_door_heavy_door_locker2
+    6400000: heavy_door_lock1_heavy_metal_door
+    6400002: heavy_metal_door_heavy_door_frame
+    6400004: heavy_metal_door_heavy_door_lock2
+    6400006: heavy_metal_door_heavy_door_locker1
+    6400008: heavy_metal_door_heavy_door_locker2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

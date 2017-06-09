@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 8b761eb7711a34d49a98dd3f7c084ab7
+timeCreated: 1462309647
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hallway_corner_hallway_corner_holder1
+    100004: hallway_corner_hallway_corner_holder10
+    100006: hallway_corner_hallway_corner_holder2
+    100008: hallway_corner_hallway_corner_holder3
+    100010: hallway_corner_hallway_corner_holder4
+    100012: hallway_corner_hallway_corner_holder5
+    100014: hallway_corner_hallway_corner_holder6
+    100016: hallway_corner_hallway_corner_holder7
+    100018: hallway_corner_hallway_corner_holder8
+    100020: hallway_corner_hallway_corner_holder9
+    100022: hallway_corner_hallway_corner_pipe2
+    100024: hallway_corner_hallway_corner_walls
+    100026: hallway_corner_pipe1_hallway_corner
+    400000: //RootNode
+    400002: hallway_corner_hallway_corner_holder1
+    400004: hallway_corner_hallway_corner_holder10
+    400006: hallway_corner_hallway_corner_holder2
+    400008: hallway_corner_hallway_corner_holder3
+    400010: hallway_corner_hallway_corner_holder4
+    400012: hallway_corner_hallway_corner_holder5
+    400014: hallway_corner_hallway_corner_holder6
+    400016: hallway_corner_hallway_corner_holder7
+    400018: hallway_corner_hallway_corner_holder8
+    400020: hallway_corner_hallway_corner_holder9
+    400022: hallway_corner_hallway_corner_pipe2
+    400024: hallway_corner_hallway_corner_walls
+    400026: hallway_corner_pipe1_hallway_corner
+    2300000: hallway_corner_hallway_corner_holder1
+    2300002: hallway_corner_hallway_corner_holder10
+    2300004: hallway_corner_hallway_corner_holder2
+    2300006: hallway_corner_hallway_corner_holder3
+    2300008: hallway_corner_hallway_corner_holder4
+    2300010: hallway_corner_hallway_corner_holder5
+    2300012: hallway_corner_hallway_corner_holder6
+    2300014: hallway_corner_hallway_corner_holder7
+    2300016: hallway_corner_hallway_corner_holder8
+    2300018: hallway_corner_hallway_corner_holder9
+    2300020: hallway_corner_hallway_corner_pipe2
+    2300022: hallway_corner_hallway_corner_walls
+    2300024: hallway_corner_pipe1_hallway_corner
+    3300000: hallway_corner_hallway_corner_holder1
+    3300002: hallway_corner_hallway_corner_holder10
+    3300004: hallway_corner_hallway_corner_holder2
+    3300006: hallway_corner_hallway_corner_holder3
+    3300008: hallway_corner_hallway_corner_holder4
+    3300010: hallway_corner_hallway_corner_holder5
+    3300012: hallway_corner_hallway_corner_holder6
+    3300014: hallway_corner_hallway_corner_holder7
+    3300016: hallway_corner_hallway_corner_holder8
+    3300018: hallway_corner_hallway_corner_holder9
+    3300020: hallway_corner_hallway_corner_pipe2
+    3300022: hallway_corner_hallway_corner_walls
+    3300024: hallway_corner_pipe1_hallway_corner
+    4300000: hallway_corner_hallway_corner_holder1
+    4300002: hallway_corner_hallway_corner_holder10
+    4300004: hallway_corner_hallway_corner_holder2
+    4300006: hallway_corner_hallway_corner_holder3
+    4300008: hallway_corner_hallway_corner_holder4
+    4300010: hallway_corner_hallway_corner_holder5
+    4300012: hallway_corner_hallway_corner_holder6
+    4300014: hallway_corner_hallway_corner_holder7
+    4300016: hallway_corner_hallway_corner_holder8
+    4300018: hallway_corner_hallway_corner_holder9
+    4300020: hallway_corner_hallway_corner_pipe2
+    4300022: hallway_corner_hallway_corner_walls
+    4300024: hallway_corner_pipe1_hallway_corner
+    6400000: hallway_corner_hallway_corner_holder1
+    6400002: hallway_corner_hallway_corner_holder10
+    6400004: hallway_corner_hallway_corner_holder2
+    6400006: hallway_corner_hallway_corner_holder3
+    6400008: hallway_corner_hallway_corner_holder4
+    6400010: hallway_corner_hallway_corner_holder5
+    6400012: hallway_corner_hallway_corner_holder6
+    6400014: hallway_corner_hallway_corner_holder7
+    6400016: hallway_corner_hallway_corner_holder8
+    6400018: hallway_corner_hallway_corner_holder9
+    6400020: hallway_corner_hallway_corner_pipe2
+    6400022: hallway_corner_hallway_corner_walls
+    6400024: hallway_corner_pipe1_hallway_corner
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

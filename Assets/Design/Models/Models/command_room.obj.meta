@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 8744aa66ce440dd40aeeaed9d8c61587
+timeCreated: 1462316838
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: command_floor_command_room
+    100002: //RootNode
+    100004: command_room_command_ceiling
+    100006: command_room_command_wall1
+    100008: command_room_command_wall2
+    100010: command_room_command_wall3
+    100012: command_room_command_wall4
+    100014: command_room_command_wall5
+    400000: command_floor_command_room
+    400002: //RootNode
+    400004: command_room_command_ceiling
+    400006: command_room_command_wall1
+    400008: command_room_command_wall2
+    400010: command_room_command_wall3
+    400012: command_room_command_wall4
+    400014: command_room_command_wall5
+    2300000: command_floor_command_room
+    2300002: command_room_command_ceiling
+    2300004: command_room_command_wall1
+    2300006: command_room_command_wall2
+    2300008: command_room_command_wall3
+    2300010: command_room_command_wall4
+    2300012: command_room_command_wall5
+    3300000: command_floor_command_room
+    3300002: command_room_command_ceiling
+    3300004: command_room_command_wall1
+    3300006: command_room_command_wall2
+    3300008: command_room_command_wall3
+    3300010: command_room_command_wall4
+    3300012: command_room_command_wall5
+    4300000: command_floor_command_room
+    4300002: command_room_command_ceiling
+    4300004: command_room_command_wall1
+    4300006: command_room_command_wall2
+    4300008: command_room_command_wall3
+    4300010: command_room_command_wall4
+    4300012: command_room_command_wall5
+    6400000: command_floor_command_room
+    6400002: command_room_command_ceiling
+    6400004: command_room_command_wall1
+    6400006: command_room_command_wall2
+    6400008: command_room_command_wall3
+    6400010: command_room_command_wall4
+    6400012: command_room_command_wall5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.55
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

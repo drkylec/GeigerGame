@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WalkingScript>
+	<Items>
+	  <Item>
+	    <test>50</test>
+      <rotSpeed>90.0</rotSpeed>
+      <flashlightTimer>1000.0</flashlightTimer>
+      <flashlightPowerReduction>5.0</flashlightPowerReduction>
+      <flashlightMinPower>0</flashlightMinPower>
+      <flashlightMaxPower>60</flashlightMaxPower>
+      <gravity>20.0</gravity>
+      <speed>6.0</speed>
+      <flashlightMinFlicker>0.1</flashlightMinFlicker>
+      <flashlightMaxFlicker>1.0</flashlightMaxFlicker>
+      <lowGeigerA>0.0</lowGeigerA>
+      <lowGeigerB>2.0</lowGeigerB>
+      <medGeigerA>2.1</medGeigerA>
+      <medGeigerB>4.0</medGeigerB>
+      <highGeigerA>4.1</highGeigerA>
+      <highGeigerB>6.0</highGeigerB>
+	  </Item>
+	</Items>
+</WalkingScript>
